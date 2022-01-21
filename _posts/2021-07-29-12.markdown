@@ -1,0 +1,15 @@
+---
+layout: posts
+title:  "Comparison and Contrast of Canadian Immigration during the 1920s and 1930s"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - North America
+  - Interwar Period
+  - Second World War
+  - WWII
+  - Socio-Political
+---
+
+
+<iframe src="https://drive.google.com/file/d/1YQFFgJxemomoSLNqOGwQsVm3vKYKGg4V/preview" width="900" height="900" allow="autoplay"></iframe>

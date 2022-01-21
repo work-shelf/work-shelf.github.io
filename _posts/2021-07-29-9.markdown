@@ -1,0 +1,14 @@
+---
+layout: posts
+title:  "Effects of Britain’s colonization on South Africa"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - Central Africa
+  - Southern Africa
+  - Long Nineteenth Century
+  - Socio-Political
+---
+
+
+<iframe src="https://drive.google.com/file/d/127gyXZAl4faHzWjbpF38OFX9w1OQBBNb/preview" width="900" height="900" allow="autoplay"></iframe>

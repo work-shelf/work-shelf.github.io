@@ -1,0 +1,16 @@
+---
+layout: posts
+title:  "To what extent was the FLQ successful in achieving their goals?"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - North America
+  - Cold War
+  - Socio-Political
+  - 1900s
+  - Canada
+  - Quebec
+---
+
+
+<iframe src="https://drive.google.com/file/d/14Plrs-z7gBhzklfO9BlXhjkdLj49FGPQ/preview" width="900" height="900" allow="autoplay"></iframe>

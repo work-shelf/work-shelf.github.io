@@ -1,0 +1,13 @@
+---
+layout: posts
+title:  "The Role of Religious Fanaticism in the Salem Witch Trials"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - North America
+  -	Early Modern Period
+  - Socio-Political
+---
+
+
+<iframe src="https://drive.google.com/file/d/1Ey7Qe1op6As8Q3H-xj8flZwByXK9KtjJ/preview" width="900" height="900" allow="autoplay"></iframe>

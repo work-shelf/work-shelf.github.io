@@ -1,0 +1,14 @@
+---
+layout: posts
+title:  "Canada as Peacekeeper - an Investigation"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - Central Africa
+  - Southern Africa
+  - Cold War
+  - Military
+---
+
+
+<iframe src="https://drive.google.com/file/d/1jfJWhuhV9sjXq6Snqib5u88VP7KUoEFl/preview" width="900" height="900" allow="autoplay"></iframe>

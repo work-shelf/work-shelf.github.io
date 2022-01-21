@@ -1,0 +1,14 @@
+---
+layout: posts
+title:  "Foundation of Slavery"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - Western Europe
+  - Age of Antiquity
+  - Socio-Political
+  - 1600s
+---
+
+
+<iframe src="https://drive.google.com/file/d/1yNgVOuJ8tb37bk3e_fhTsB8Y5btMaI4H/preview" width="900" height="900" allow="autoplay"></iframe>

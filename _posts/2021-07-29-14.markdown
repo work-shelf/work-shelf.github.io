@@ -1,0 +1,14 @@
+---
+layout: posts
+title:  "Food Standards and Safety in the Canadian Legal System"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - North America
+  - Post Cold War
+  - Post Modernity
+  - Socio-Political
+---
+
+
+<iframe src="https://drive.google.com/file/d/1jp0COhrJtjFV-9IikyyUCYT_U35BFtno/preview" width="900" height="900" allow="autoplay"></iframe>

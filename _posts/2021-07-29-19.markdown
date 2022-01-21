@@ -1,0 +1,13 @@
+---
+layout: posts
+title:  "Diocletian - General, Emperor, Cabbage Farmer"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - Eastern Europe
+  - Age of Antiquity
+  - Socio-Political
+---
+
+
+<iframe src="https://drive.google.com/file/d/1CW5lbBzGCuskWItveeh8Taqx5e9UIKqN/preview" width="900" height="900" allow="autoplay"></iframe>

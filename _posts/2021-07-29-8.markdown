@@ -1,0 +1,13 @@
+---
+layout: posts
+title:  "Starry-Eyed Tiger: Power & Politics on the Korean Peninsula"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - East Asia
+  - Cold War
+  - Socio-Political
+---
+
+
+<iframe src="https://drive.google.com/file/d/1B9COkES5lsskzsG4U12ON5WPpWnzTKr7/preview" width="900" height="900" allow="autoplay"></iframe>

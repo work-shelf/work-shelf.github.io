@@ -1,0 +1,16 @@
+---
+layout: posts
+title:  "The Hawk Still Soars Proud"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - Post Cold War
+  - Post Modernity
+  - Military
+  - Eastern Europe
+  - North Africa
+  - East Asia
+---
+
+
+<iframe src="https://drive.google.com/file/d/1krRtw1c4pRyviyWXYnsU0dAEi4Q-zP6d/preview" width="900" height="900" allow="autoplay"></iframe>

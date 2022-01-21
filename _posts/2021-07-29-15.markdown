@@ -1,0 +1,15 @@
+---
+layout: posts
+title:  "Colonialism: The Japanese in China Kevin Wu"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - East Asia
+  - Interwar Period
+  - Second World War
+  - WWII
+  - Military
+---
+
+
+<iframe src="https://drive.google.com/file/d/1sa6gUOhgKxJmDG42dDf9PydVdTHvg2hM/preview" width="900" height="900" allow="autoplay"></iframe>

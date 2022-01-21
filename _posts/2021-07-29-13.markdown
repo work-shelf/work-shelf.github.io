@@ -1,0 +1,14 @@
+---
+layout: posts
+title:  "Religion, Politics, and Christian Evangelicalism in the United States"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - North America
+  - Post-Cold War
+  - Post-Modernity
+  - Socio-political
+---
+
+
+<iframe src="https://drive.google.com/file/d/1jiMiOO2QU16xsNM9SZN6kXTi39xIXyiG/preview" width="900" height="900" allow="autoplay"></iframe>

@@ -1,0 +1,15 @@
+---
+layout: posts
+title:  "The New Deal: A Revolutionary Legacy"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - North America
+  - Interwar Period
+  - Second World War
+  - WWII
+  - Economic
+---
+
+
+<iframe src="https://drive.google.com/file/d/1v2X5GDZ-GOZ4kQVnYCGiJBQtaISLbjF8/preview" width="900" height="900" allow="autoplay"></iframe>

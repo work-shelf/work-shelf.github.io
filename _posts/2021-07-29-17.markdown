@@ -1,0 +1,14 @@
+---
+layout: posts
+title:  "Canada's peacekeeping during Congo Crisis"
+date:   2021-07-29 18:47:55 -0400
+categories: jekyll update
+tags:
+  - Central Africa
+  - Southern Africa
+  - Cold War
+  - Military
+---
+
+
+<iframe src="https://drive.google.com/file/d/1ir0g_zWaoZr3mIbl37S-uRaBtt0Pn7hp/preview" width="900" height="900" allow="autoplay"></iframe>
